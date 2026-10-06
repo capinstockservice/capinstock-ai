@@ -1,0 +1,18 @@
+{
+  "name": "capinstock",
+  "owner": {
+    "name": "CapinStock",
+    "url": "https://capinstock.com"
+  },
+  "metadata": {
+    "description": "Официальные плагины CapinStock для Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "capinstock",
+      "source": "./plugins/capinstock",
+      "description": "Коннектор к кабинету CapinStock (только чтение) и навык работы с сервисом",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.capinstock/capinstock",
+  "title": "CapinStock",
+  "description": "Read-only access to your CapinStock inventory, purchasing, FBS and supplier data",
+  "version": "1.0.0",
+  "websiteUrl": "https://capinstock.com",
+  "repository": {
+    "url": "https://github.com/capinstockservice/capinstock-ai",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.capinstock.com/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Bearer <personal key> for clients without browser sign-in; OAuth otherwise",
+          "isRequired": false,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}

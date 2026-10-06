@@ -1,0 +1,22 @@
+{
+  "name": "capinstock",
+  "displayName": "CapinStock",
+  "version": "1.0.0",
+  "description": "CapinStock для ИИ-ассистента: коннектор к вашему кабинету (только чтение) и навык работы с сервисом — остатки, заказы ФБС, «Честный знак», план закупок, поставщики, платежи, доходность товаров.",
+  "author": {
+    "name": "CapinStock",
+    "url": "https://capinstock.com"
+  },
+  "homepage": "https://capinstock.com",
+  "repository": "https://github.com/capinstockservice/capinstock-ai",
+  "license": "MIT",
+  "keywords": [
+    "capinstock",
+    "inventory",
+    "запасы",
+    "закупки",
+    "wildberries",
+    "ozon",
+    "mcp"
+  ]
+}
