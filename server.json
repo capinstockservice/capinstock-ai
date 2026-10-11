@@ -3,7 +3,7 @@
   "name": "com.capinstock/capinstock",
   "title": "CapinStock",
   "description": "Read-only access to your CapinStock inventory, purchasing, FBS and supplier data",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "websiteUrl": "https://capinstock.com",
   "repository": {
     "url": "https://github.com/capinstockservice/capinstock-ai",

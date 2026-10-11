@@ -4,7 +4,7 @@ description: Работа с кабинетом CapinStock через конне
 license: MIT
 compatibility: Нужен подключённый коннектор CapinStock (https://mcp.capinstock.com/mcp) и оплаченный тариф CapinStock.
 metadata:
-  version: "1.0.0"
+  version: "1.1.1"
   homepage: "https://capinstock.com"
 ---
 
