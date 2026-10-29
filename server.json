@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.capinstock/capinstock",
   "title": "CapinStock",
-  "description": "Read-only access to your CapinStock inventory, purchasing, FBS and supplier data",
-  "version": "1.2.0",
+  "description": "Your CapinStock inventory, purchasing, FBS and supplier data; onboarding data entry by permission",
+  "version": "1.6.0",
   "websiteUrl": "https://capinstock.com",
   "repository": {
     "url": "https://github.com/capinstockservice/capinstock-ai",

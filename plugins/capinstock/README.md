@@ -6,7 +6,7 @@
 
 ## Что внутри
 
-- **Коннектор** `https://mcp.capinstock.com/mcp` — доступ к кабинету только на чтение.
+- **Коннектор** `https://mcp.capinstock.com/mcp` — доступ к кабинету: чтение, а по отдельному разрешению — внесение данных онбординга.
 - **Навык** `capinstock` — какие инструменты вызывать под какой вопрос и как оформлять ответ.
 - **Команды** `/capinstock:weekly-review`, `/capinstock:what-to-order`, `/capinstock:where-to-save`,
   `/capinstock:fbs-today`.

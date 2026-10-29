@@ -11,7 +11,7 @@
     {
       "name": "capinstock",
       "source": "./plugins/capinstock",
-      "description": "Коннектор к кабинету CapinStock (только чтение) и навык работы с сервисом",
+      "description": "Коннектор к кабинету CapinStock (чтение, а по отдельному разрешению — внесение данных онбординга) и навык работы с сервисом",
       "category": "productivity"
     }
   ]
